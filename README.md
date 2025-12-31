@@ -1,27 +1,71 @@
 <h1 id="hello-there-i-am-atharva-funde">Hey there, I’m Atharva Funde 👨‍💻</h1>
 <p><img src="https://github.com/halfrost/halfrost/blob/master/icons/header_.png" alt=""></p>
 
-# 💫 About Me:
-Hey, I’m Atharva — MSc Blockchain Technology student 🧠⛓️<br>I build, break, and optimize systems — whether that’s smart contracts, trading strategies, or full-stack Web3 ideas.<br><br>I’m obsessed with:<br><br>Decentralized systems & real-world blockchain use cases<br><br>Clean logic, risk management, and long-term thinking<br><br>Turning chaos (markets, code, life) into structured systems<br><br>💹 Trading Side Quest (Not a Hobby)<br><br>I’m an active Forex & Crypto trader with a strong focus on:<br><br>Risk-first execution (capital preservation > dopamine trades)<br><br>Price action & liquidity-based setups<br><br>Prop firm challenges & disciplined scaling<br><br>Trading taught me what college never could:<br><br>Emotional control, probabilistic thinking, and execution under pressure.<br><br>Same mindset I bring into coding and blockchain security.<br><br>🚀 What I’m Building Toward<br><br>Founder-grade blockchain products (not copy-paste DApps)<br><br>Deep expertise in smart contracts, DeFi & security<br><br>Long-term vision: build systems that outlive trends<br><br>🧠 Fun Fact<br><br>I treat:<br><br>Code like a system<br><br>Trading like a science<br><br>Life like a long-term trade 📈
-
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/atharva_funde62/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/atharva-funde-05541a24) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/atharva_funde62) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=kilobyte-developer&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=kilobyte-developer&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kilobyte-developer&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=kilobyte-developer&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=kilobyte-developer&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=kilobyte-developer&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<h2 id="about-me">🚀 About Me</h2>
+
+<p>
+🧑‍🎓MSc Blockchain Tech Student(MIT-WPU) & Trader from Pune, India 🇮🇳<br>
+🔧 Building skills in JavaScript, Node.js, MongoDB & Smart Contracts (Solidity)<br>
+🚀 Actively learning Web3, DApps & blockchain ecosystems to create my own crypto project<br>
+🏁 1 year+ experience in forex & crypto trading (risk-managed strategies)<br>
+🏆 Winner @ Rian Hackathon (AI-based Video Localization) | 1st in PC Assembly 2023<br>
+</p>
+
+
+
+---
+
+<h2 id="my-tech-stack">🛠️ Tech Stack</h2>
+<p align="left"> 
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?logo=javascript&logoColor=black"/>
+  <!-- <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-blue?logo=typescript&logoColor=white"/> -->
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-green?logo=node.js&logoColor=white"/>
+  <img alt="React" src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB"/>
+  <!-- <img alt="Tailwind CSS" src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white"/> -->
+  <!-- <img alt="Express" src="https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=white"/> -->
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%2347A248.svg?logo=mongodb&logoColor=white"/>
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?logo=postgresql&logoColor=white"/>
+  <!-- <img alt="Redis" src="https://img.shields.io/badge/Redis-red?logo=redis&logoColor=white"/> -->
+  <!-- <img alt="Prisma" src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white"/> -->
+  <!-- <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white"/> -->
+  <!-- <img alt="Nginx" src="https://img.shields.io/badge/NGINX-009639.svg?logo=nginx&logoColor=white"/> -->
+  <!-- <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white"/> -->
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white"/>
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black"/>
+  <!-- <img alt="GoLang" src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white"/> -->
+</p>
+
+---
+
+<h2 id="notable-projects">💡 Notable Projects</h2>
+
+- **RAAS** ([GitHub](https://github.com/kilobyte-developer/RAAS-v2.0))  
+  🔬 E-commerce website for Art studio  
+  💡 A functional Portal for a Art Studio to showcase their work and to Connect with customers 
+
+
+<h2 id="achievements">🏅 Achievements</h2>
+
+- 🥇 1st Place - Rikaian Innovate-a-Thon 2024
+- 🎯 Senior Coordinator for National Conferene on Data Science and its Challenges 2025
+- 🥇 1st Place - Pc Assembly Competition at Modern College gk 2023
+- 🥈 2nd Place - Pc Assembly Competition at Modern College gk 2024
+- 🥈 2nd Place - Blind Coding at Modern College gk 2024
+- 🎓 Top 8.65 Aggregate GPA in BSc CS at Modern College gk, Pune
+
+---
+
+<h2 id="connect-with-me">📬 Connect With Me</h2>
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/atharva-funde-05541a249/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" height="30"></a>
+
+  <a href="mailto:atharvafunde26@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" height="30"></a>
+</p>
+
+---
+
+
