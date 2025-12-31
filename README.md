@@ -1,7 +1,6 @@
 <h1 id="hello-there-i-am-atharva-funde">Hey there, I’m Atharva Funde 👨‍💻</h1>
 <p><img src="https://github.com/halfrost/halfrost/blob/master/icons/header_.png" alt=""></p>
 
-
 ---
 
 <h2 id="about-me">🚀 About Me</h2>
@@ -14,28 +13,11 @@
 🏆 Winner @ Rian Hackathon (AI-based Video Localization) | 1st in PC Assembly 2023<br>
 </p>
 
-
-
 ---
 
 <h2 id="my-tech-stack">🛠️ Tech Stack</h2>
 <p align="left"> 
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?logo=javascript&logoColor=black"/>
-  <!-- <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-blue?logo=typescript&logoColor=white"/> -->
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-green?logo=node.js&logoColor=white"/>
-  <img alt="React" src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB"/>
-  <!-- <img alt="Tailwind CSS" src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white"/> -->
-  <!-- <img alt="Express" src="https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=white"/> -->
-  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%2347A248.svg?logo=mongodb&logoColor=white"/>
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?logo=postgresql&logoColor=white"/>
-  <!-- <img alt="Redis" src="https://img.shields.io/badge/Redis-red?logo=redis&logoColor=white"/> -->
-  <!-- <img alt="Prisma" src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white"/> -->
-  <!-- <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white"/> -->
-  <!-- <img alt="Nginx" src="https://img.shields.io/badge/NGINX-009639.svg?logo=nginx&logoColor=white"/> -->
-  <!-- <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white"/> -->
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white"/>
-  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black"/>
-  <!-- <img alt="GoLang" src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white"/> -->
+  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 </p>
 
 ---
@@ -44,8 +26,7 @@
 
 - **RAAS** ([GitHub](https://github.com/kilobyte-developer/RAAS-v2.0))  
   🔬 E-commerce website for Art studio  
-  💡 A functional Portal for a Art Studio to showcase their work and to Connect with customers 
-
+  💡 A functional Portal for a Art Studio to showcase their work and to Connect with customers
 
 <h2 id="achievements">🏅 Achievements</h2>
 
@@ -63,9 +44,8 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/atharva-funde-05541a249/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" height="30"></a>
 
-  <a href="mailto:atharvafunde26@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" height="30"></a>
+<a href="mailto:atharvafunde26@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" height="30"></a>
+
 </p>
 
 ---
-
-
