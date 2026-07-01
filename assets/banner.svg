@@ -1,0 +1,83 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Atharva Funde — AI, Full-Stack &amp; Blockchain Engineer">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#05070d"/>
+      <stop offset="100%" stop-color="#0a0f1e"/>
+    </linearGradient>
+
+    <linearGradient id="textGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38bdf8">
+        <animate attributeName="stop-color" values="#38bdf8;#818cf8;#22d3ee;#38bdf8" dur="9s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="50%" stop-color="#818cf8">
+        <animate attributeName="stop-color" values="#818cf8;#22d3ee;#38bdf8;#818cf8" dur="9s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#22d3ee">
+        <animate attributeName="stop-color" values="#22d3ee;#38bdf8;#818cf8;#22d3ee" dur="9s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+
+    <linearGradient id="ruleGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38bdf8" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#818cf8" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#22d3ee" stop-opacity="0"/>
+    </linearGradient>
+
+    <radialGradient id="glowBlue" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#3b82f6" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#3b82f6" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowPurple" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#8b5cf6" stop-opacity="0.45"/>
+      <stop offset="100%" stop-color="#8b5cf6" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowCyan" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#22d3ee" stop-opacity="0.4"/>
+      <stop offset="100%" stop-color="#22d3ee" stop-opacity="0"/>
+    </radialGradient>
+
+    <pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse">
+      <path d="M 42 0 L 0 0 0 42" fill="none" stroke="#1e293b" stroke-width="1" opacity="0.4"/>
+    </pattern>
+
+    <linearGradient id="vignette" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#05070d" stop-opacity="0.55"/>
+      <stop offset="30%" stop-color="#05070d" stop-opacity="0"/>
+      <stop offset="80%" stop-color="#05070d" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#05070d" stop-opacity="0.65"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="300" fill="url(#bgGrad)"/>
+  <rect width="1200" height="300" fill="url(#grid)"/>
+
+  <circle cx="150" cy="55" r="220" fill="url(#glowBlue)">
+    <animate attributeName="cx" values="150;230;150" dur="15s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="1070" cy="255" r="240" fill="url(#glowPurple)">
+    <animate attributeName="cy" values="255;185;255" dur="17s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="1010" cy="35" r="150" fill="url(#glowCyan)">
+    <animate attributeName="cx" values="1010;940;1010" dur="13s" repeatCount="indefinite"/>
+  </circle>
+
+  <rect width="1200" height="300" fill="url(#vignette)"/>
+
+  <text x="600" y="102" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#67e8f9" letter-spacing="5">
+    BUILDING AT THE INTERSECTION OF AI &amp; WEB3
+  </text>
+
+  <text x="600" y="168" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="58" font-weight="700" fill="url(#textGrad)" letter-spacing="0.5">
+    Atharva Funde
+  </text>
+
+  <text x="600" y="205" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="19" font-weight="400" fill="#94a3b8" letter-spacing="1">
+    AI Engineer&#160;&#160;·&#160;&#160;Full-Stack Engineer&#160;&#160;·&#160;&#160;Blockchain Engineer
+  </text>
+
+  <rect x="470" y="230" width="260" height="1.5" fill="url(#ruleGrad)"/>
+
+  <text x="600" y="262" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#64748b" letter-spacing="1">
+    Pune, India · MSc Blockchain Technology, MIT-WPU
+  </text>
+</svg>
