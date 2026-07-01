@@ -118,27 +118,11 @@ I'm an engineer working across **AI, full-stack products, and blockchain systems
 
 **AI**
 
-<img src="https://img.shields.io/badge/LLMs-38BDF8?style=for-the-badge&logoColor=white" height="26"/>
-<img src="https://img.shields.io/badge/Prompt_Engineering-818CF8?style=for-the-badge&logoColor=white" height="26"/>
-<img src="https://img.shields.io/badge/AI_Agents-22D3EE?style=for-the-badge&logoColor=white" height="26"/>
-<img src="https://img.shields.io/badge/RAG-38BDF8?style=for-the-badge&logoColor=white" height="26"/>
-<img src="https://img.shields.io/badge/Groq_API-818CF8?style=for-the-badge&logo=groq&logoColor=white" height="26"/>
-<img src="https://img.shields.io/badge/Gemini_API-22D3EE?style=for-the-badge&logo=googlegemini&logoColor=white" height="26"/>
-<img src="https://img.shields.io/badge/OpenAI_API-38BDF8?style=for-the-badge&logo=openai&logoColor=white" height="26"/>
+<img src="https://img.shields.io/badge/LLMs-38BDF8?style=for-the-badge&logoColor=white" height="26"/>  <img src="https://img.shields.io/badge/Prompt_Engineering-818CF8?style=for-the-badge&logoColor=white" height="26"/>  <img src="https://img.shields.io/badge/AI_Agents-22D3EE?style=for-the-badge&logoColor=white" height="26"/>  <img src="https://img.shields.io/badge/RAG-38BDF8?style=for-the-badge&logoColor=white" height="26"/>  <img src="https://img.shields.io/badge/Groq_API-818CF8?style=for-the-badge&logo=groq&logoColor=white" height="26"/>  <img src="https://img.shields.io/badge/Gemini_API-22D3EE?style=for-the-badge&logo=googlegemini&logoColor=white" height="26"/>  <img src="https://img.shields.io/badge/OpenAI_API-38BDF8?style=for-the-badge&logo=openai&logoColor=white" height="26"/>
 
 **Blockchain**
 
-<img src="https://img.shields.io/badge/Ethereum-818CF8?style=for-the-badge&logo=ethereum&logoColor=white" height="26"/>
-<img src="https://img.shields.io/badge/BNB_Chain-22D3EE?style=for-the-badge&logo=binance&logoColor=white" height="26"/>
-<img src="https://img.shields.io/badge/Avalanche-38BDF8?style=for-the-badge&logo=avalanche&logoColor=white" height="26"/>
-<img src="https://img.shields.io/badge/Solidity-818CF8?style=for-the-badge&logo=solidity&logoColor=white" height="26"/>
-<img src="https://img.shields.io/badge/Hardhat-22D3EE?style=for-the-badge&logoColor=white" height="26"/>
-<img src="https://img.shields.io/badge/Ethers.js-38BDF8?style=for-the-badge&logoColor=white" height="26"/>
-<img src="https://img.shields.io/badge/Web3.js-818CF8?style=for-the-badge&logoColor=white" height="26"/>
-<img src="https://img.shields.io/badge/Wagmi-22D3EE?style=for-the-badge&logoColor=white" height="26"/>
-<img src="https://img.shields.io/badge/Viem-38BDF8?style=for-the-badge&logoColor=white" height="26"/>
-<img src="https://img.shields.io/badge/ERC--20-818CF8?style=for-the-badge&logoColor=white" height="26"/>
-<img src="https://img.shields.io/badge/ERC--721-22D3EE?style=for-the-badge&logoColor=white" height="26"/>
+<img src="https://img.shields.io/badge/Ethereum-818CF8?style=for-the-badge&logo=ethereum&logoColor=white" height="26"/>  <img src="https://img.shields.io/badge/BNB_Chain-22D3EE?style=for-the-badge&logo=binance&logoColor=white" height="26"/>  <img src="https://img.shields.io/badge/Avalanche-38BDF8?style=for-the-badge&logo=avalanche&logoColor=white" height="26"/>  <img src="https://img.shields.io/badge/Solidity-818CF8?style=for-the-badge&logo=solidity&logoColor=white" height="26"/>  <img src="https://img.shields.io/badge/Hardhat-22D3EE?style=for-the-badge&logoColor=white" height="26"/>  <img src="https://img.shields.io/badge/Ethers.js-38BDF8?style=for-the-badge&logoColor=white" height="26"/>  <img src="https://img.shields.io/badge/Web3.js-818CF8?style=for-the-badge&logoColor=white" height="26"/>  <img src="https://img.shields.io/badge/Wagmi-22D3EE?style=for-the-badge&logoColor=white" height="26"/>  <img src="https://img.shields.io/badge/Viem-38BDF8?style=for-the-badge&logoColor=white" height="26"/>  <img src="https://img.shields.io/badge/ERC--20-818CF8?style=for-the-badge&logoColor=white" height="26"/>  <img src="https://img.shields.io/badge/ERC--721-22D3EE?style=for-the-badge&logoColor=white" height="26"/>
 
 <br/>
 
@@ -286,8 +270,8 @@ Worked across blockchain products, full-stack applications, smart contracts, AI 
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=kilobyte-developer&show_icons=true&hide_border=true&hide_title=false&bg_color=0D1117&title_color=38BDF8&icon_color=818CF8&text_color=C9D1D9&ring_color=22D3EE" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kilobyte-developer&layout=compact&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9&langs_count=8" />
+<!-- <img height="165" src="https://github-readme-stats.vercel.app/api?username=kilobyte-developer&show_icons=true&hide_border=true&hide_title=false&bg_color=0D1117&title_color=38BDF8&icon_color=818CF8&text_color=C9D1D9&ring_color=22D3EE" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kilobyte-developer&layout=compact&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9&langs_count=8" /> -->
 
 <br/>
 
