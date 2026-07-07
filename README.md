@@ -1,3 +1,4 @@
+<!-- Header: banner, nav badges, socials -->
 <div align="center">
 
 <img src="./assets/banner.svg" alt="Atharva Funde — AI, Full-Stack & Blockchain Engineer" width="100%"/>
@@ -45,6 +46,7 @@
 
 <br/>
 
+<!-- Section 01: About Me -->
 <h2 id="about">
 <img src="https://img.shields.io/badge/01-About_Me-0D1117?style=flat-square&logoColor=38BDF8" height="28"/>
 </h2>
@@ -79,6 +81,7 @@ I'm an engineer working across **AI, full-stack products, and blockchain systems
 
 <br/>
 
+<!-- Section 02: Tech Stack -->
 <h2 id="stack">
 <img src="https://img.shields.io/badge/02-Tech_Stack-0D1117?style=flat-square&logoColor=818CF8" height="28"/>
 </h2>
@@ -126,6 +129,7 @@ I'm an engineer working across **AI, full-stack products, and blockchain systems
 
 <br/>
 
+<!-- Section 03: Featured Projects -->
 <h2 id="projects">
 <img src="https://img.shields.io/badge/03-Featured_Projects-0D1117?style=flat-square&logoColor=22D3EE" height="28"/>
 </h2>
@@ -254,6 +258,7 @@ Smart-contract-based travel insurance with pooled coverage and automated claim v
 
 <br/>
 
+<!-- Section 04: Experience -->
 <h2 id="experience">
 <img src="https://img.shields.io/badge/04-Experience-0D1117?style=flat-square&logoColor=38BDF8" height="28"/>
 </h2>
@@ -264,14 +269,15 @@ Worked across blockchain products, full-stack applications, smart contracts, AI 
 
 <br/>
 
+<!-- Section 05: GitHub Stats -->
 <h2 id="stats">
 <img src="https://img.shields.io/badge/05-GitHub_Stats-0D1117?style=flat-square&logoColor=818CF8" height="28"/>
 </h2>
 
 <div align="center">
 
-<!-- <img height="165" src="https://github-readme-stats.vercel.app/api?username=kilobyte-developer&show_icons=true&hide_border=true&hide_title=false&bg_color=0D1117&title_color=38BDF8&icon_color=818CF8&text_color=C9D1D9&ring_color=22D3EE" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kilobyte-developer&layout=compact&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9&langs_count=8" /> -->
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=kilobyte-developer&show_icons=true&hide_border=true&hide_title=false&bg_color=0D1117&title_color=38BDF8&icon_color=818CF8&text_color=C9D1D9&ring_color=22D3EE" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kilobyte-developer&layout=compact&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9&langs_count=8" />
 
 <br/>
 
@@ -305,6 +311,7 @@ Worked across blockchain products, full-stack applications, smart contracts, AI 
 
 <br/>
 
+<!-- Section 06: Achievements -->
 <h2 id="achievements">
 <img src="https://img.shields.io/badge/06-Achievements-0D1117?style=flat-square&logoColor=22D3EE" height="28"/>
 </h2>
@@ -320,6 +327,7 @@ Worked across blockchain products, full-stack applications, smart contracts, AI 
 
 <br/>
 
+<!-- Section 07: Contact -->
 <h2 id="contact">
 <img src="https://img.shields.io/badge/07-Let's_Connect-0D1117?style=flat-square&logoColor=38BDF8" height="28"/>
 </h2>
