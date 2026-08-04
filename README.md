@@ -1,6 +1,6 @@
 
 
-<!-- Header: banner, nav badges, socials -->
+<!-- Header: banner, nav badges, socials , -->
 <div align="center">
 
 <img src="./assets/banner.svg" alt="Atharva Funde — AI, Full-Stack & Blockchain Engineer" width="100%"/>
