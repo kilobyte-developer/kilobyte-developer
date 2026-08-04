@@ -5,6 +5,9 @@
 
 <br/>
 
+<a href="https://atharvafunde.dev">
+<img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=safari&logoColor=22D3EE" />
+</a>
 <a href="#about">
 <img src="https://img.shields.io/badge/About-0D1117?style=for-the-badge&logo=aboutdotme&logoColor=38BDF8" />
 </a>
