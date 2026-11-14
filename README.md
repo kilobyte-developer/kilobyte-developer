@@ -192,7 +192,7 @@ Generates and runs test suites from source code and user stories, with coverage 
 <tr>
 <td width="50%" valign="top">
 
-### 🔒 [StealthPay](https://github.com/kilobyte-developer/Stealth-Address-Payment-System)
+### 🔒 [StealthPay](https://github.com/kilobyte-developer/stealth-pay-team1)
 **Privacy-Preserving Web3 Payments**
 
 Blockchain payment platform using stealth-address cryptography for unlinkable, one-time recipient addresses on institutional-grade transactions.
@@ -323,6 +323,7 @@ Worked across blockchain products, full-stack applications, smart contracts, AI 
 
 | | |
 |---|---|
+| 🥇 | **Top100** — Top 100 among 55000 candidates PAN India @ Capgemini Exceller Agentifai Buildathon 2026 |
 | 🥇 | **Winner** — Rikaian Innovate-a-Thon 2024 |
 | 🥇 | **Winner** — PC Assembly Competition, Modern College GK 2023 |
 | 🥈 | **Runner-up** — Blind Coding, Modern College GK 2024 |
